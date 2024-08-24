@@ -12,6 +12,7 @@
  </ol>
  <br>
 <h2>Como usar:</h2>
+![tela de login](Imgs/login.png)
 <p>Na tela de Login, no primeiro acesso, clique em criar conta,e então crie um usuário. Lembre-se do RA e da senha, serão os dados de acesso!</p>
 <p>Depois de criar sua conta, logue no aplicativo, com seus dados.</p>
 <p>Você entrou na tela principal, aonde pode emprestar livros e devolve-los</p>
