@@ -1,5 +1,6 @@
 # Biblioteca-QBIT
  Sistema CRUD básico de uma biblioteca, feito em Windows Forms em VB.NET
+ <p>Por padrão a <b>biblioteca está vazia</b>, siga os passos abaixo para adicionar os livros e então empresta-los.</p>
  <br>
 <h2> Como instalar </h2>
  <ol>
@@ -12,7 +13,6 @@
  <br>
 <h2>Como usar:</h2>
 <p>Na tela de Login, no primeiro acesso, clique em criar conta,e então crie um usuário. Lembre-se do RA e da senha, serão os dados de acesso!</p>
-![Tela de Login](Imgs/login.png)
 <p>Depois de criar sua conta, logue no aplicativo, com seus dados.</p>
 <p>Você entrou na tela principal, aonde pode emprestar livros e devolve-los</p>
 <p> <b>A função de cadastrar livros é restrita ao usuário Admin</b> Acesse com os seguintes valores: RA = A000000 e Senha = 000000</p>
