@@ -37,5 +37,5 @@
 <h4>A tela inicial apresenta um menu de ajuda com as mesmas instruções</h4>
 <h4>Sistema básico somente para fins de estudo e portifólio.</h4>
 <img src="https://blog.unp.br/wp-content/uploads/2020/03/giphy-94.gif">
-<p>Fim!</p>
+<p><strong>Fim!</strong></p>
 <br>
